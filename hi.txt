@@ -1,0 +1,2 @@
+hi guys this is test note for file lock system.
+if you can see this note when run file lock program, the program have problem :(
